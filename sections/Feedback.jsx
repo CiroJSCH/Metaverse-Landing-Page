@@ -3,7 +3,6 @@
 import { motion } from 'framer-motion';
 import styles from '../styles';
 import { staggerContainer, fadeIn, zoomIn } from '../utils/motion';
-import { TypingText, TitleText } from '../components';
 
 const Feedback = () => (
   <section className={`${styles.paddings} relative z-10`}>
