@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Metaverse Landing Page
+
+This project was created following this [design](https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion) in Figma.
 
 ## Getting Started
 
@@ -12,23 +14,21 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Technologies
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+For the development, I used:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- React.JS
+- Next.JS
+- TailwindCSS
+- Framer Motion
 
-## Learn More
+## Links
+ - [Live site](https://metaverse-landing-page-eight.vercel.app/)
+ - [Code](https://github.com/CiroJSCH/Metaverse-Landing-Page)
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
+![image](https://user-images.githubusercontent.com/104742538/222962718-0d6ea092-a147-4dbd-84ad-0a2a187263fd.png)
+![image](https://user-images.githubusercontent.com/104742538/222962728-9265b2e5-db84-4963-b0f7-f0a9e015ad1d.png)
+![image](https://user-images.githubusercontent.com/104742538/222962767-7ac6f47f-f1a2-4726-ac21-168813082fe4.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
